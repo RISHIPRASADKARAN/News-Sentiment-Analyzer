@@ -67,8 +67,8 @@ st.markdown("""
 # Sidebar
 st.sidebar.title("About")
 st.sidebar.markdown("""
-    This AI-powered app analyzes the sentiment of news headlines or articles using an SVM model trained on financial news data.  
-    - *Accuracy*: ~75%  \n
+    This AI-powered app analyzes the sentiment of news headlines or articles using an SVM model trained on news data.  
+    - *Accuracy*: 75%  \n
     - *Classes*: Positive, Negative, Neutral\n 
     - *✅ Positive*: Optimistic and favorable news\n
     - *❌ Negetive News*: Concerning news\n
